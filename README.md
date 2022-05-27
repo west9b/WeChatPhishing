@@ -24,4 +24,4 @@ cobalt strike 选择Attacks ->Web Drive-by -> System Profiler
 # Screenshots
  ![Image text](/wechat.png) 
 # refer
-本地提取电子取证直接使用已有的python脚本 https://github.com/ecat-sec/wechat_info_collect
+本地提取电子取证参考github已有的python脚本 https://github.com/ecat-sec/wechat_info_collect
