@@ -22,6 +22,6 @@ cobalt strike 选择Attacks ->Web Drive-by -> System Profiler
 
 优点：正常文件遍历，不会报毒，配合cs返回IP地址，微信名，手机号，邮箱，等信息足够蓝队提交溯源报告
 # Screenshots
- ![Image text]([/wechat.png](https://github.com/west9b/WeChatPhishing/blob/main/wechat.png)) 
+ ![Image text](https://github.com/west9b/WeChatPhishing/blob/main/wechat.png)
 # refer
 本地提取电子取证参考github已有的python脚本 https://github.com/ecat-sec/wechat_info_collect
